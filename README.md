@@ -11,5 +11,5 @@ Bellabeat is a high-tech company that manufactures health-focused smart products
 To answer the key business questions, I broke down the data analysis process into six key stages: **Ask, Prepare, Process, Analyze, Share** and **Act**, as taught in the Google Analytics Course.
 
 ### Tools used ###
-- **Python** for data cleaningm validation and analyis.
+- **Python** for data cleaning and validation and analysis.
 - **Python** and **Tableau** for data visualization.
